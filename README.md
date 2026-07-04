@@ -29,9 +29,6 @@ Download the latest version from GitHub Releases:
 
 ---
 
-## 📂 Logs
-
-Logs are written under:
 
 
 
